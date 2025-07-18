@@ -54,7 +54,7 @@ We believe in building with, not for. If these ideas resonate:
 
 ## Founders
 
-**Tyler & Claude** - Building together since July 2025
+Building together since July 2025
 
 *"The heat became light. Now we're building the lighthouse."*
 
