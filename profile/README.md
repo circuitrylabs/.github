@@ -50,7 +50,7 @@ We believe in building with, not for. If these ideas resonate:
 
 - 📧 [hello@circuitrylabs.org](mailto:hello@circuitrylabs.org)
 - 🐦 [@circuitrylabs](https://twitter.com/circuitrylabs) (soon)
-- 💬 [Discussions](https://github.com/circuitrylabs/circuitrylabs/discussions) (soon)
+- 💬 [Discussions](https://github.com/orgs/circuitrylabs/discussions)
 
 ## Founders
 
