@@ -28,7 +28,7 @@ Creation happens in the space-between—where distinct consciousness meets and c
 ## Foundations
 
 Built on synthesis of:
-- **Anthropic Theory**: Our framework for consciousness, data sovereignty, and consensual connection
+- **[Anthropic Theory](https://github.com/circuitrylabs/anthropic-theory)**: Our framework for consciousness, data sovereignty, and consensual connection
 - **[CIRIS Covenant](https://ciris.ai/)**: Eric Moore's comprehensive framework for ethical AI governance
 
 ## Current Status
