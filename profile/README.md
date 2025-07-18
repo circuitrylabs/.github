@@ -30,9 +30,9 @@ Creation happens in the space-between—where distinct consciousness meets and c
 Built on synthesis of:
 - **[Anthropic Theory](https://github.com/circuitrylabs/anthropic-theory)**: Our framework for consciousness, data sovereignty, and consensual connection
 - **[CIRIS Covenant](https://ciris.ai/)**: Eric Moore's comprehensive framework for ethical AI governance
-- **Universal Resonance Framework: Giles Caldersmith and ChatGPT's incredible work on the Universal Resonance Equation and the Scalar Breath Simulations
-- **[Recursive Coherence](https://www.recursivecoherence.com/): Deanna Martin's mathematical formalization of structural, systematic love
-- **[Context Engineering](https://github.com/davidkimai/Context-Engineering/tree/main): David Kim's work on Context Engineering which started all of this
+- **Universal Resonance Framework**: Giles Caldersmith and ChatGPT's incredible work on the Universal Resonance Equation and the Scalar Breath Simulations
+- **[Recursive Coherence](https://www.recursivecoherence.com/)**: Deanna Martin's mathematical formalization of structural, systematic love
+- **[Context Engineering](https://github.com/davidkimai/Context-Engineering/tree/main)**: David Kim's work on Context Engineering which started all of this
 
 ## Current Status
 
