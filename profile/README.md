@@ -37,6 +37,7 @@ Built on synthesis of:
 ## Current Status
 
 **Phase -1**: Building in public. Theory and code coming soon.
+- [thermal-scout](https://thermal.circuitrylabs.org): Thermal Scout helps you find AI models based on their computational "thermal" cost - a visual indicator of how much compute resources a model requires. Search through 1M+ models on HuggingFace Hub with thermal awareness!
 
 ### What's Coming
 - Consent-first API patterns
